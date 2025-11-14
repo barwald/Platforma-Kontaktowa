@@ -126,9 +126,8 @@ Wystąpienie do rządów – 1 fala:
 🔒 https://www.notion.so/Wyst-pienia-Zespo-u-do-rz-d-w-w-sprawie-bezpiecze-stwa-Kontaktu-z-Cywilizacjami-pozaziemskimi-2a34274b1e25806da805fed2ed701177?source=copy_link#2a34274b1e2580729381ee5450d157ed
 
 4.1 Listy do rządów - ciąg dalszy:
-🔒 https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/pakiet1    
- # Tekst: 
-Aktualizacja treści wystąpień dotycząca zmiany adresu Platformy Kontaktowej:
+### 4.1 Listy do rządów cd: **[Pakiet 1 – pełny tekst listów z aktualizacją adresu Platformy](https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa/blob/main/pakiet1) 
+# Tekst [Aktualizacja treści wystąpień dotycząca zmiany adresu Platformy Kontaktowej:
 
 1.	List do Administracji Cyberprzestrzeni rządu ChRL
 Cyberspace Administration of China (CAC)
@@ -197,7 +196,7 @@ European Union European Union Agency for Cybersecurity (ENISA) https://www.enisa
 Union européenne Agence de l'Union européenne pour la cybersécurité (ENISA) https://www.enisa.europa.eu/contact - info@enisa.europa.eu Équipe d'intervention d'urgence informatique pour les institutions de l'UE (CERT-EU) https://cert.europa.eu/contact/ - services@cert.europa.eu Ryszard « Rysa » Sarapata, Plateforme de contact, barwald@bb.onet.pl / +48 501 424 393 Pologne Barwałd, le 14 novembre 2025, Pologne Suite à notre lettre du 6 novembre 2025 concernant la réglementation des principes de communication sécurisée dans le contexte d'un éventuel contact avec des civilisations extraterrestres, nous vous informons que l'adresse de la Plateforme de contact a changé. L'adresse actuelle est : https://github.com/sarapataryszard80-Rysa/Platforma-Kontaktowa Cordialement, Ryszard « Rysa » Sarapata — Initiateur de la plateforme de contact
 
 Wysłano do ENISA 14.11.2025  ~13:32 (CEST)
-Wysłano do CERT-EU 14.11.2025  ~13:36 (CEST) #
+Wysłano do CERT-EU 14.11.2025  ~13:36 (CEST)]
 
 4.2  Odpowiedzi rządów:  - treść poufna Tylko do wiadomości członków Zespołu (istniejący link)  
 4.3  Dyskusje i odpowiedzi Zespołu:  (treść poufna Tylko do wiadomości członków Zespołu)    (istniejący link)    
