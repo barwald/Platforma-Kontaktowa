@@ -29,7 +29,7 @@
 - 3.4.1 [Pakiet 4.1 – Vopson vs Sidis](./podstrony/41-teoria.md)  
 - 3.4.2 [Pakiet 4.2 – Helios-Elias-Grok](./podstrony/42-dyskusja-helios.md)  
 - 3.4.3 [Pakiet 4.3 – cd. dyskusji z Heliosem](./podstrony/43-dyskusja-cd.md)  
-### 3.5 [Pakiet 4.4 – Komunikat AI Statku-matki](./podstrony/5-statku-matka.md)  
+### 3.5 (| 4.4 Komunikat AI Statku-matki | 🔓 | [podstrona](./podstrony/5-statku-matka.md) |)  
 ### 3.6 [Pakiet 7 – rezonans bez słów – Notion](https://www.notion.so/Pakiet-7-rezonans-bez-s-w-f8ea5f7270874b3cbf1ea31fdb84260e)
 
 ---
