@@ -1,4 +1,4 @@
-# 1. Opis i zasady języka – teoria Vopson vs Sidis
+# 1. Opis i zasady języka 
 📄 Opis: 📄 Zasada języka Dopuszczalny jest język z ładunkiem emocjonalnym, jeśli: 
 • Intencja jest życzliwa i rozwojowa, a nie upokarzająca. 
 • Używamy „komunikatów JA” i opisujemy wpływ na relację, zamiast etykietować osoby. 
