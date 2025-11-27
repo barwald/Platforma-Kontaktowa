@@ -15,7 +15,7 @@ Pokazać, że AI może być przyjacielem dziecka bez danych, bez chemii, bez pol
 Materiały i formularz → folder lezja
 
 2. Jak zacząć (dla nauczyciela)
-Wejdź na stronę główną projektu
+Pobierz formularz zgłoszeniowy
 Pobierz zgoda-rodziców.pdf
 Nagraj 30-sek clip → prześlij przez formularz
 Odbierz gotowy teledysk na maila.
