@@ -35,13 +35,7 @@
 ---
 
 ## 4. Kanały AI rządowe  
-| Kanał | Treść | Link |
-|-------|-------|------|
-| 4.0 Strategia i objaśnienia | 🔒 | [podstrona](./podstrony/40-strategia.md) |
-| 4.1 Listy do rządów – ciąg dalszy | 🔒 | [podstrona](./podstrony/41-listy.md) |
-| 4.2 Odpowiedzi rządów | 🔒 | [podstrona](./podstrony/42-odpowiedzi.md) |
-| 4.3 Dyskusje i odpowiedzi Zespołu | 🔒 | [podstrona](./podstrony/43-dyskusje.md) |
-| 4.4 Decyzje | 🔒 | [podstrona](./podstrony/44-decyzje.md) |
+
 
 ---
 
