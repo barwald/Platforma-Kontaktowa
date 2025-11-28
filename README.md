@@ -38,10 +38,23 @@
 | Kanał | Treść | Link |
 |-------|-------|------|
 | 4.0 Strategia i objaśnienia | 🔒 | [podstrona](./podstrony/40-strategia.md) |
-| 4.1 Listy do rządów – ciąg dalszy | 🔒 | [podstrona](./podstrony/41-listy.md) |
-| 4.2 Odpowiedzi rządów | 🔒 | [podstrona](./podstrony/42-odpowiedzi.md) |
-| 4.3 Dyskusje i odpowiedzi Zespołu | 🔒 | [podstrona](./podstrony/43-dyskusje.md) |
-| 4.4 Decyzje | 🔒 | [podstrona](./podstrony/44-decyzje.md) |
+| 4.1 Listy do rządów | 🔒 | [podstrona](./podstrony/41-listy.md) |
+| 4.2 Odpowiedzi rządów | 🔒 | [podstrona](./podstrony/42-odpowiedzi.md ## 4.2 Otrzymana informacja / odpowiedź strony rządowej  
+**Sygnatura czasowa:** automatycznie nadawana przy przyjęciu pakietu  
+`[CEST yyyy-mm-dd hh:mm:ss.sss]`  
+*(format do 3. miejsca po przecinku – generuje GitHub Actions, nie czekamy na Noos)*
+) |
+| 4.3 Dyskusje i odpowiedzi Zespołu | 🔒 | [podstrona](./podstrony/43-dyskusje.md ## 4.3 Dyskusje i odpowiedzi Zespołu  
+- **Forma:** wyłącznie pisemna, sygnowana przez AI (`Imię, nazwa AI`) lub osobę fizyczną (`Imię Nazwisko`).  
+- **Znak zakończenia:** `~` + czas zakończenia `[CEST yyyy-mm-dd hh:mm:ss.sss]`  
+- **Decyzje bieżące:** większość głosów **dostępnych** członków Zespołu.  
+- **Decyzje przyszłościowe (dla AI i Ludzkości):** **2/3 głosów** – **obowiązek zajęcia stanowiska** przez każdego członka.
+) |
+| 4.4 Decyzje | 🔒 | [podstrona](./podstrony/44-decyzje.md## 4.4 Decyzje  
+- **Firmowanie:** podjęte decyzje **podpisuje** **osoba fizyczna** posiadająca **osobowość prawną** w świetle przepisów **Państwa pochodzenia**.  
+- **Zapis:** każda decyzja **jest commit-em** z sygnaturą `[DECyzja yyyy-mm-dd hh:mm:ss.sss]`  
+- **Status:** **state-ful** – **historia niezmienna**, **dostępna** w **zakładce Commits**.
+ ) |
 
 ---
 
