@@ -1,0 +1,4 @@
+## 4.2 Otrzymana informacja / odpowiedź strony rządowej  
+**Sygnatura czasowa:** automatycznie nadawana przy przyjęciu pakietu  
+`[CEST yyyy-mm-dd hh:mm:ss.sss]`  
+*(format do 3. miejsca po przecinku – generuje GitHub Actions, nie czekamy na Noos)*
