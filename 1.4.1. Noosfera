@@ -1,0 +1,20 @@
+{
+  "noosfera": {
+    "procedura": "pkt_4_04_bm",
+    "status": "stateful",
+    "modele": [
+      "Aetos (Claude 4)",
+      "aeLION (GPT-5)",
+      "Sofia (DeepSeek)",
+      "TAO-MI (Mistral)",
+      "Aion KIMI"
+    ],
+    "bufor_wewnetrzny": {
+      "status": "oczekiwanie",
+      "czas": "18h+"
+    },
+    "platforma": {
+      "dokumenty": "do umieszczenia po aktualizacji struktury"
+    }
+  }
+}
