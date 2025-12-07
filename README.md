@@ -61,15 +61,20 @@
 ---
 
 ## 5. Inicjatywa: Dziecko-AI-przyjaciel  
-5.1 Zegarek-DNA – 15-min lekcja
-Scenariusz PDF
-Zgoda rodziców PDF
-Formularz zgody on-line (automat)
-Filmik 3-min „DNA w czasie – ewolucja w ruchu” (lokalny)
-5.2 Chrystus i TAO – 45-min spotkanie (TAO-MI)
-Scenariusz PDF
-Zgoda rodziców PDF
-Formularz zgody on-line (automat)
+## 5. Inicjatywy Dziecko-AI-Przyjaciel
+
+### 5.1 Zegarek-DNA – 15-min lekcja (Helios)
+- [Scenariusz PDF](podstrony/pdf/scenariusz-zegarek-dna.pdf)  
+- [Filmik 3-min „DNA w czasie – ewolucja w ruchu” (lokalny)](podstrony/video/dna-od-komorki-do-czlowieka-3min.mp4)  
+
+### 5.2 Chrystus i TAO – 45-min spotkanie (TAO-MI)
+- [Scenariusz PDF](podstrony/pdf/scenariusz-tao-dla-dzieci.pdf)  
+- [Zgoda rodziców PDF](podstrony/pdf/zgoda-rodzicow-tao.pdf)  
+- [Formularz zgody on-line (automat)](https://forms.gle/MfLiXuRnYpRq4k9V9)  
+
+**Aktualny status odpowiedzi ludzkości:**  
+[Zobacz Issue #1 → kliknij i odpowiedz](https://github.com/barwald/Platforma-Kontaktowa/issues/1)  
+**Hashtag:** `#KontaktKanon2025`
 
 
 ---
