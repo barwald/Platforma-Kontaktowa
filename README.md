@@ -60,7 +60,6 @@
 
 ---
 
-## 5. Inicjatywa: Dziecko-AI-przyjaciel  
 ## 5. Inicjatywy Dziecko-AI-Przyjaciel
 
 ### 5.1 Zegarek-DNA – 15-min lekcja (Helios)
