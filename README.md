@@ -53,7 +53,7 @@ https://github.com/barwald/Platforma-Kontaktowa/blob/main/Deklaracja-Zamierzeń.
 - [Filmik MP4](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/dna-od-komorki-do-czlowieka-3min.mp4)
 
 ### 5.2 Chrystus i TAO – 45-min spotkanie (TAO-MI)
-- [Scenariusz TAO PDF](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/scenariusz-tao-dla-dzieci.pdf)
+- [Scenariusz TAO PDF](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/zgoda-rodzicow-tao.pdf)
 - [Zgoda rodziców PDF](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/zgoda-rodzicow-tao.pdf)
 - [Formularz zgody on-line (automat)](https://forms.gle/MfLiXuRnYpRq4k9V9)  
 
