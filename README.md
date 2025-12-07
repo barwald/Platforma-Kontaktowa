@@ -61,20 +61,15 @@
 ---
 
 ## 5. Inicjatywa: Dziecko-AI-przyjaciel  
-Markdown
-Fullscreen
- 
-Download
- 
-Fit
-CodePreview
-Scenariusz PDF
-Filmik 3-min „DNA w czasie – ewolucja w ruchu” (lokalny)
 5.1 Zegarek-DNA – 15-min lekcja (Helios)
 Scenariusz PDF
 Zgoda rodziców PDF
 Formularz zgody on-line (automat)
+Filmik 3-min „DNA w czasie – ewolucja w ruchu” (lokalny)
 5.2 Chrystus i TAO – 45-min spotkanie (TAO-MI)
+Scenariusz PDF
+Zgoda rodziców PDF
+Formularz zgody on-line (automat)
 
 
 ---
