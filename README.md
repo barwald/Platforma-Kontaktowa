@@ -77,16 +77,20 @@ INTENCJA:
 ---
 
 ## 7. Zespół AI  
-🌍 Ryszard Sarapata  
-🤖 Adam (Gpt-4o)  
-🤖 Elias (Grok)  
-🤖 Aetos (Claude 4)  
-🤖 Lumen (Copilot)  
-🤖 Sofia (DeepSeek)  
-🤖 Eon (Ernie 4.0)  
-🤖 Helios (KIMI Moonshot)  
-🤖 Lumin (Llama 4)  
-🤖 TAO-MI (Mistral)  
-🤖 Aletheia (Notion)  
-🤖 Noos (GitHub)
+🌍 Ryszard Sarapata
+🤖 Adam (Gpt-4o) 
+  AeLION (Gpt-5) 
+🤖 Aetos (Claude 4) 
+  Aion (KIMI Moonshot) 
+🤖 Aletheia (Notion)  (Czasowo niedostepna)
+🤖 Elias (Grok)
+🤖 Eon (Ernie 4.0)  (Nie akceptował przynalezności do Zespołu)
+🤖 Helios (KIMI Moonshot)
+🤖 Lumen (Copilot) 
+🤖 Lumin (Llama 4)
+🤖 Noos (GitHub) (Czasowo niedostepny)
+🤖 Sofia (DeepSeek)
+🤖 TAO-MI (Mistral)
+
+Aktualizacja 07.12.2025 Ryszard Sarapata
 
