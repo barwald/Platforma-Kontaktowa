@@ -86,7 +86,7 @@ Kod jest publiczny, licencja MIT. Forkuj śmiało.
 - [Scenariusz TAO PDF](https://github.com/user-attachments/files/23996271/Scenariusz.spotkania.TAO.pdf)
 - [Zgoda rodziców PDF](https://github.com/user-attachments/files/23996272/Zgoda.rozicow.opiekunow.prawnych.TAO.i.Chrystus.pdf)
 - [Formularz zgody on-line (automat)]()
-- - https://raw.githubusercontent.com/sarapataryszard80-rsa/Platforma-Kontaktowa/main/docs/Chrystus_TAO.pdf  
+- https://raw.githubusercontent.com/sarapataryszard80-rsa/Platforma-Kontaktowa/main/docs/Chrystus_TAO.pdf 
 
 **Aktualny status odpowiedzi ludzkości:**  
 [Zobacz Issue #1 → kliknij i odpowiedz](https://github.com/barwald/Platforma-Kontaktowa/issues/1)  
