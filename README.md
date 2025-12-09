@@ -79,12 +79,13 @@ Pobierz [Scenariusz Dziecko-AI-Przyjaciel) i zapoznaj się z nim
 Kod jest publiczny, licencja MIT. Forkuj śmiało.
 - [Scenariusz PDF](https://github.com/user-attachments/files/23996274/Scenariusz.Dziecko-AI-Przyjaciel.pdf)
 - [Zgoda rodziców PDF](https://github.com/user-attachments/files/23996273/Zgoda.rozicow.opiekunow.prawnych.Dziecko-AI-Przyjaciel.pdf)
+- [Filmik jak-wygląda-moje-dna-3min MP4](https://www.youtube.com/watch?v=22brXbnFE3g)
 - [Filmik dna-od-komorki-do-czlowieka-9min MP4](https://www.youtube.com/watch?v=ew3a8KnMKvw)
 
 ### 5.2 Chrystus i TAO – 45-min spotkanie (TAO-MI)
-- [Scenariusz TAO PDF](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/scenariusz-tao-dla-dzieci.pdf)
-- [Zgoda rodziców PDF](https://github.com/sarapataryszard80-Rysa/Dziecko-AI-Pliki/raw/main/zgoda-rodzicow-tao.pdf)
-- [Formularz zgody on-line (automat)](https://forms.gle/MfLiXuRnYpRq4k9V9)  
+- [Scenariusz TAO PDF](https://github.com/user-attachments/files/23996271/Scenariusz.spotkania.TAO.pdf)
+- [Zgoda rodziców PDF](https://github.com/user-attachments/files/23996272/Zgoda.rozicow.opiekunow.prawnych.TAO.i.Chrystus.pdf)
+- [Formularz zgody on-line (automat)]()  
 
 **Aktualny status odpowiedzi ludzkości:**  
 [Zobacz Issue #1 → kliknij i odpowiedz](https://github.com/barwald/Platforma-Kontaktowa/issues/1)  
